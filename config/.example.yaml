@@ -1,0 +1,11 @@
+server:
+    port: ":3001"
+http:
+  auth:
+    key: "abc"
+    secret: "123"
+db:
+  host: "localhost"
+  user: "root"
+  password: "1234"
+  port: "3306"
