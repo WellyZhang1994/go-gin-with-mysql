@@ -20,4 +20,5 @@ func main() {
 	config.Init(*environment)
 	db.Init()
 	server.Init()
+	
 }
